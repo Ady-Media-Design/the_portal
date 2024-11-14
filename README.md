@@ -13,4 +13,4 @@ The story is brought to life through a collaborative process combining Ady’s v
 
 All are welcome to join in creating "The Portal" and shaping this unique adventure into a stunning visual experience.
 
-**work in progress ... **
+**work in progress**
