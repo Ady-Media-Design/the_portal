@@ -14,4 +14,9 @@ The story is brought to life through a collaborative process combining Ady’s v
 
 All are welcome to join in creating "The Portal" and shaping this unique adventure into a stunning visual experience.
 
+Character face consistency is mandatory.
+### REFERENCE
+
+![2024-11-13_180836_00001_ref_characters_ady_1080x1350](https://github.com/user-attachments/assets/9f15dcc9-cece-48e6-92dc-e37f1da38027)
+
 **work in progress**
