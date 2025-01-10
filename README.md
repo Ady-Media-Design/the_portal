@@ -9,10 +9,10 @@ In a world where reality blurs with the digital unknown, Ady — a visionary des
 [![The Portal: A Journey Beyond Reality (teaser)](https://i.ytimg.com/vi/5pifV2VbEPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=5pifV2VbEPM)
 
 ## PILOT (SHORT)
-https://www.youtube.com/watch?v=its7qeAJzQ8
 
-**🌀 The Portal: A Journey Beyond Reality**
-🌌 Discovering Truth in a Virtual Universe, by Ady
+**🌀 The Portal: Pilot (short)**
+
+https://www.youtube.com/watch?v=its7qeAJzQ8
 
 By the year 2600, Earth has emerged from the devastation of a solar apocalypse—a catastrophe triggered by a weakened magnetic field that left the planet vulnerable to an unprecedented solar storm.
 
@@ -22,7 +22,7 @@ Now, the once-blazing wasteland has been transformed into a marvel of resilience
 
 **The Portal** - A story of courage, discovery, and the fight to bring light back to a world consumed by darkness. 
 
-## PILOT (WORK IN PROGRESS...)
+## PILOT (FULL VERSION - WORK IN PROGRESS...)
 ## EPISODE 1 (PENDING...)
 ## . . .
 
