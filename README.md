@@ -47,13 +47,13 @@ All are welcome to join in creating "The Portal" and shaping this unique adventu
 *These goals would provide a clear roadmap for the creation of "The Portal", ensuring growth and sustainability despite its no-budget nature.*
 
 **Short-Term Objectives**
-* Develop a complete script for the story, detailing the plot, characters, and key scenes.
-* Create short animations (1–8 seconds) in 1080p resolution to build visual momentum and illustrate the concept.
-* Plan the production of a feature-length animated film or an episodic series, with each episode advancing the storyline.
-* Build a presentation website to showcase the project, featuring artwork, animations, and the story outline to attract contributors and sponsors.
+* Develop a complete script for the story, detailing the plot, characters, and key scenes. (100%)
+* Create short animations (1–8 seconds) in 1080p resolution to build visual momentum and illustrate the concept. (15%)
+* Plan the production of a feature-length animated film or an episodic series, with each episode advancing the storyline. (pending)
+* Build a presentation website to showcase the project, featuring artwork, animations, and the story outline to attract contributors and sponsors. (pending)
 
 **Long-Term Objectives**
-* Secure sponsorship for licensing professional software or tools required for animation and production.
+* Secure sponsorship for licensing professional software or tools required for animation and production. (pending)
 * Find a sponsor to fund additional professional equipment (e.g., high-performance PCs, professional-grade GPUs, etc.).
 * Partner with a publishing or production company interested in licensing and distributing the final film or series.
 * Attract a sponsor for promotion and digital marketing, helping the project reach a global audience and build a dedicated fan base.
