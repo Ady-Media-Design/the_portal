@@ -1,18 +1,18 @@
 # the_portal
 
-# The Portal : A Journey Beyond Reality
+# 🌀 The Portal : A Journey Beyond Reality
 ### Discovering Truth in a Virtual Universe
 
 In a world where reality blurs with the digital unknown, Xara — a visionary designer — stumbles upon a secret buried deep within the Internet’s unseen layers. Alongside his fearless partner, Kayo — a genius robot programmer, they are pulled into a vortex of pixels and code, a dazzling yet perilous realm inhabited by alien beings and otherworldly landscapes. This isn’t just a digital illusion; it's a parallel universe with secrets of its own. As they navigate through this surreal dimension, Xara and Kayo realize that they themselves are part of its fabric, actors in a cosmic mystery. Their mission is clear: escape this virtual labyrinth and discover their true identities... but the truth might reshape everything they thought they knew about their existence.
 
 $~$
 
-## TEASER
+## 🎞️ TEASER
 [![The Portal: A Journey Beyond Reality (teaser)](https://i.ytimg.com/vi/5pifV2VbEPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=5pifV2VbEPM)
 
 $~$
 
-## Creative Process & Collaboration with AI
+## 🤝 Creative Process & Collaboration with AI
 <details open>
 <summary>All are welcome to join in creating "The Portal" and shaping this unique adventure into a stunning visual experience. Let’s shape Xara’s world together! Reach out and be part of something extraordinary.</summary>
 
@@ -29,15 +29,19 @@ The author will be credited both in the episode in which the sequence he created
 
 $~$
 
-### CHARACTERS REFERENCE
+## 🎭 CHARACTERS - IMAGE REFERENCE IMPROVED (FINAL)
 
-![2024-11-13_180836_00001_ref_characters_ady_1080x1350](https://github.com/user-attachments/assets/9f15dcc9-cece-48e6-92dc-e37f1da38027)
+![2025-01-20_133915_00001_ref_ady_characters_Kayo_Xara-1080](https://github.com/user-attachments/assets/bb97137b-38af-43ab-86de-0d7d1ad627a1)
+
+## 🎭 CHARACTERS - IMAGE REFERENCE (INITIAL)
+
+![2024-11-14_080301_00001_the_portal-pilot-IG4_1080](https://github.com/user-attachments/assets/91a1bcfb-492a-45a4-a8ce-92c179d4ac32)
 
 _Tools: ComfyUI Portable (local server)_
 
 $~$
 
-## Objectives
+## ⚡ Objectives
 <details open>
 <summary>These goals would provide a clear roadmap for the creation of "The Portal", ensuring growth and sustainability despite its no-budget nature.</summary>
 
@@ -57,7 +61,7 @@ $~$
 
 $~$
 
-## PILOT (SHORT)
+## 🎥 PILOT (SHORT)
 
 ### **🌀 The Portal: Pilot (short)**
 
@@ -69,11 +73,11 @@ For centuries, the planet's surface was scorched beyond livability, forcing huma
 
 Now, the once-blazing wasteland has been transformed into a marvel of resilience. Towering futuristic cities with shimmering façades rise above the rebuilt Earth, their designs impervious to the relentless heat and violent quakes that once threatened life.
 
-**The Portal** - A story of courage, discovery, and the fight to bring light back to a world consumed by darkness. 
+**The Portal** — A story of courage, discovery, and the fight to bring light back to a world consumed by darkness. 
 
 $~$
 
-## XARA's DREAM
+## 🎥 XARA's DREAM
 
 ### **🌀 The Portal: Xara's Dream ✨ 🌏 A moment where the past whispers its secrets to the present.**
 
@@ -99,16 +103,21 @@ In a world that's left unknown
 The final spark of long-extinguished light
 Awakened now, I claim the night
 ```
-Music: ["I am Celia"](https://www.youtube.com/watch?v=RcWOMbCBEyw) by Enthusiast Sounds (Ady Edit)
+<sub>Music: ["I am Celia"](https://www.youtube.com/watch?v=RcWOMbCBEyw) by Enthusiast Sounds ([Ady DeeJay](https://adydeejay.ro/) Edit) </sub>
 
 $~$
 
-## PILOT (FULL VERSION - WORK IN PROGRESS...)
+## 🎥 PILOT (FULL VERSION — WORK IN PROGRESS...)
 
-## EPISODE 01 (PENDING...)
+## 🎥 EPISODE 01 (PENDING...)
 
-## . . .
+## 🎥 . . .
 
-## EPISODE 10 (NOT STARTED)
+## 🎥 EPISODE 10 (NOT STARTED)
+
+
+## 📌 CREDITS SECTION
+
+
 
 **work in progress**
