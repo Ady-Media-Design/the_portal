@@ -75,6 +75,8 @@ Now, the once-blazing wasteland has been transformed into a marvel of resilience
 
 **The Portal** — A story of courage, discovery, and the fight to bring light back to a world consumed by darkness. 
 
+<sub>Music: Envato Elements, Licensee: [Adrian Dumitrașcu](https://github.com/adydeejay) - Annual Subscription</sub>
+
 $~$
 
 ## 🎥 XARA's DREAM
