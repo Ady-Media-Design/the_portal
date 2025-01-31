@@ -12,6 +12,23 @@ $~$
 
 $~$
 
+## 🎞️ PROMO
+[![The Portal: A Journey Beyond Reality (promo)](https://i.ytimg.com/vi/lDE8QsLMlj4/maxresdefault.jpg)](https://www.youtube.com/watch?v=lDE8QsLMlj4)
+
+Imagine stepping into a world where creativity meets cutting-edge technology. Welcome to "The Portal"! A visionary sci-fi project created entirely with the power of Artificial Intelligence. 
+
+Thanks to rapid advancements in AI, I’m finally bringing to life a concept I've been developing for over three years, a 12-episode journey filled with mystery and wonder. Each episode, just 3 to 5 minutes long, is crafted using hundreds of AI-generated visuals and short clips, carefully assembled to build a captivating narrative. But ... I can’t do this alone ...
+
+To truly unlock The Portal’s full potential, I’m looking for passionate creators who share my love for storytelling, sound design, audio and video production. Your creative contributions will be credited in every episode, and if we secure sponsorships, subscriptions, licenses, and copyright support, you’ll also be compensated for your work or, in return, I could help with your own projects. If you're ready to help shape this ambitious sci-fi adventure, you can find more details on GitHub.
+
+Thank you for believing in the future of storytelling. Together, let’s unlock "The Portal"!
+
+"We lost ... Damn it ..."
+
+Yeah! That’s right. We’re preparing something truly amazing! Stay tuned for creative insights, production updates, and the thrilling premiere of The Portal.
+
+$~$
+
 ## 🤝 Creative Process & Collaboration with AI
 <details open>
 <summary>All are welcome to join in creating "The Portal" and shaping this unique adventure into a stunning visual experience. Let’s shape Xara’s world together! Reach out and be part of something extraordinary.</summary>
