@@ -90,6 +90,8 @@ In return, contributors will receive credits on every episode and, as financial 
 Let’s unlock "The Portal" together, proving that collaboration and creativity can triumph over limitations.
 </details>
 
+$~$
+
 ## 🤝 Creative Process & Collaboration with AI
 <details open>
 <summary>All are welcome to join in creating "The Portal" and shaping this unique adventure into a stunning visual experience. Let’s shape Xara’s world together! Reach out and be part of something extraordinary.</summary>
