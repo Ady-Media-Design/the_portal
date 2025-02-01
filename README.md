@@ -67,8 +67,6 @@ Beyond Kling AI credits, several essential licenses and tools are required:
 - **Total Production Work Hours:** 934.67 hours
 - **Total Production Work Days:** 38.94 days
 
-$~$
-
 ### Call for Creators
 As stated in the original project promo:
 > "But ... I can’t do this alone ... To truly unlock The Portal’s full potential, I’m looking for passionate creators who share my love for storytelling, sound design, audio, and video production. Your creative contributions will be credited in every episode, and if we secure sponsorships, subscriptions, licenses, and copyright support, you’ll also be compensated for your work or, in return, I could help with your own projects."
