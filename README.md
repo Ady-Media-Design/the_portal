@@ -49,9 +49,7 @@ Beyond Kling AI credits, several essential licenses and tools are required:
 5. **Suno AI Pro:** AI tool for film music composition ($10-30/mo)
 6. **ElevenLabs.io:** AI voice-over generation platform ($22/mo)
 
-$~$
-
-## Production Time Map
+### Production Time Map
 
 | **Production Stages**   | **Quantity**     | **Duration** | **Total Hours** | **Total Days** |
 |--------------------------|------------------|--------------|-----------------|----------------|
