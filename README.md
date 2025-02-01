@@ -1,5 +1,10 @@
 # the_portal
 
+#### About The Portal  
+A project crafted by [adydeejay](https://github.com/adydeejay), proudly supported by [Ady Media Design](https://github.com/Ady-Media-Design). We welcome contributions and sponsorships from others who believe in this project and its potential.
+
+$~$
+
 # 🌀 The Portal : A Journey Beyond Reality
 ### Discovering Truth in a Virtual Universe
 
