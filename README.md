@@ -41,7 +41,7 @@ Given editing and transition requirements, we assume 4 usable seconds per clip:
 1. **Kling AI Premium:** AI tool used for video generation ($80.96/mo, 8000 credits/mo)
 Beyond Kling AI credits, several essential licenses and tools are required:
 
-### Additional Production Costs
+### Additional Production Costs (Estimation)
 
 2. **Flux.1 Pro AI Models:** AI models used for image generation tool (starting from $20/mo)
 3. **Custom LORA:** AI Loras used for image generation (N/A)
