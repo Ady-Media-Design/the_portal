@@ -42,7 +42,7 @@ Beyond Kling AI credits, several essential licenses and tools are required:
 3. **Custom LORAs:** AI Loras used for image generation (N/A)
 4. **Adobe Creative Cloud:** For audio and video editing ($54.99/mo)
 5. **Suno AI Pro:** AI tool for film music composition ($10-30/mo)
-6. **ElevenLabs.io:** AI voice-over generation platform ($219.96/year)
+6. **ElevenLabs.io:** AI voice-over generation platform ($22/mo)
 
 $~$
 
