@@ -44,28 +44,25 @@ Beyond Kling AI credits, several essential licenses and tools are required:
 ### Additional Production Costs
 
 2. **Flux.1 Pro AI Models:** AI models used for image generation tool (starting from $20/mo)
-3. **Custom LORAs:** AI Loras used for image generation (N/A)
+3. **Custom LORA:** AI Loras used for image generation (N/A)
 4. **Adobe Creative Cloud:** For audio and video editing ($54.99/mo)
 5. **Suno AI Pro:** AI tool for film music composition ($10-30/mo)
 6. **ElevenLabs.io:** AI voice-over generation platform ($22/mo)
 
 $~$
 
-## Time Map
+## Production Time Map
 
-| Production Stages   | Details                | Quantity | Duration | Total Minutes | Total Hours | Total Days |
-|---------------------|-------------------------|----------|----------|---------------|-------------|------------|
-| **Kling AI**        | Kling AI Credits         | 27,720   |          | 1,680        | 28          | 1.17       |
-|                     | Kling AI Clips generation (2 min/clip)          | 840 clips     | 5 sec length    |               |             |            |
-|                     | Clip Duration (Total)    | 4,200 sec   |          |               |             |            |
-| **Image Generation**| Number of Images         | 2,000    | 5 min    | 10,000       | 166.67      | 6.94       |
-| **Music**           | Number of Songs          | 20       | 10 hrs   |               | 200          | 8.33       |
-| **Voice Over**      | Number of Episodes       | 12       | 20 hrs   |               | 240         | 10         |
-| **Editing**         | Montage                  | 12       | 5 hrs    |               | 60          | 2.5        |
-| **Sound Design**    | Number of Episodes       | 12       | 5 hrs    |               | 60          | 2.5        |
-| **Pre-Production**  | Number of Episodes       | 12       | 10 hrs   |               | 120         | 5          |
-| **Post-Production** | Number of Episodes       | 12       | 5 hrs    |               | 60          | 2.5        |
-
+| **Production Stages**   | **Quantity**     | **Duration** | **Total Hours** | **Total Days** |
+|--------------------------|------------------|--------------|-----------------|----------------|
+| **AI Image Generation**     | 2,000 images     | 5 min        | 166.67          | 6.94           |
+| **AI Clips Generation**  | 840 clips        | 5 min        | 28              | 1.17           |
+| **Music**                | 20 songs         | 10 hrs       | 200             | 8.33           |
+| **Voice Over**           | 12 episodes      | 20 hrs       | 240             | 10             |
+| **Audio Video Editing**  | 12 episodes      | 5 hrs        | 60              | 2.5            |
+| **Sound Design**         | 12 episodes      | 5 hrs        | 60              | 2.5            |
+| **Pre-Production**       | 12 episodes      | 10 hrs       | 120             | 5              |
+| **Post-Production**      | 12 episodes      | 5 hrs        | 60              | 2.5            |
 ---
 
 ### Production Requirements Summary
