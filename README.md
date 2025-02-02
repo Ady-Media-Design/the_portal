@@ -1,28 +1,50 @@
 # the_portal
 
-#### About The Portal  
-A project crafted by [adydeejay](https://github.com/adydeejay), proudly supported by [Ady Media Design](https://github.com/Ady-Media-Design). We welcome contributions and sponsorships from others who believe in this project and its potential.
+**About The Portal**
+
+<sub>A project crafted by [adydeejay](https://github.com/adydeejay), proudly supported by [Ady Media Design](https://github.com/Ady-Media-Design). We welcome contributions and sponsorships from others who believe in this project and its potential.</sub>
 
 $~$
 
+![2025-01-20_133915_00001_ref_ady_characters_Kayo_Xara-1920-web](https://github.com/user-attachments/assets/a3cb8ddc-7e98-4412-8466-82822fde1297)
+
+
 # 🌀 The Portal : A Journey Beyond Reality
-### Discovering Truth in a Virtual Universe
+### 🌌 Discovering Truth in a Virtual Universe
 
 In a world where reality blurs with the digital unknown, Xara — a visionary designer — stumbles upon a secret buried deep within the Internet’s unseen layers. Alongside his fearless partner, Kayo — a genius robot programmer, they are pulled into a vortex of pixels and code, a dazzling yet perilous realm inhabited by alien beings and otherworldly landscapes. This isn’t just a digital illusion; it's a parallel universe with secrets of its own. As they navigate through this surreal dimension, Xara and Kayo realize that they themselves are part of its fabric, actors in a cosmic mystery. Their mission is clear: escape this virtual labyrinth and discover their true identities... but the truth might reshape everything they thought they knew about their existence.
 
 $~$
 
-## 🎞️ PROMO (CALL TO ACTION)
+## 🎯 Objectives
+<details open>
+<summary>These goals would provide a clear roadmap for the creation of "The Portal", ensuring growth and sustainability despite its no-budget nature.</summary>
+
+### 🎯 Short-Term Objectives
+* ✅ Develop a complete script for the story, detailing the plot, characters, and key scenes.
+* 📌 Create short animations (1–8 seconds) in 1080p resolution to build visual momentum and illustrate the concept.
+* 📌 Plan the production of a feature-length animated film or an episodic series, with each episode advancing the storyline.
+* 📌 Build a presentation website to showcase the project, featuring artwork, animations, and the story outline to attract contributors and sponsors.
+
+### 🎯 Long-Term Objectives
+* 📌 Secure sponsorship for licensing professional software or tools required for animation and production.
+* 📌 Find a sponsor to fund additional professional equipment (e.g., high-performance PCs, professional-grade GPUs, etc.).
+* 📌 Partner with a publishing or production company interested in licensing and distributing the final film or series.
+* 📌 Attract a sponsor for promotion and digital marketing, helping the project reach a global audience and build a dedicated fan base.
+
+</details>
+
+$~$
+
+## 🛠️ Development Process
+<details open>
+<summary>Creating "The Portal" series is an ambitious and exciting journey fueled by creativity and innovation. With a total runtime of 56 minutes (3,360 seconds) divided into 12 videos—including a pilot, 10 episodes, and an epilogue—this project showcases the transformative potential of AI-driven storytelling. However, this endeavor is not just about financial resources but rather about time and dedicated contributions from passionate creators.
 
 [![The Portal: A Journey Beyond Reality (promo)](https://i.ytimg.com/vi/lDE8QsLMlj4/maxresdefault.jpg)](https://www.youtube.com/watch?v=lDE8QsLMlj4)
 
-## The Portal Project: Time Over Money
-<details open>
-<summary>
-Creating "The Portal" series is an ambitious and exciting journey fueled by creativity and innovation. With a total runtime of 56 minutes (3,360 seconds) divided into 12 videos—including a pilot, 10 episodes, and an epilogue—this project showcases the transformative potential of AI-driven storytelling. However, this endeavor is not just about financial resources but rather about time and dedicated contributions from passionate creators.
 </summary>
 
-### AI Production Requirements
+### 🤖 AI Production Requirements
 To deliver the entire series, the following production elements have been calculated:
 
 - **Total runtime:** 3,360 seconds
@@ -36,20 +58,7 @@ Given editing and transition requirements, we assume 4 usable seconds per clip:
 - **Net required clips:** 840 clips for 4 usable seconds each
 - **Estimated Kling AI credits (net):** 27,720 credits (3.4 months subscription)
 
-### Production Costs
-
-1. **Kling AI Premium:** AI tool used for video generation ($80.96/mo, 8000 credits/mo)
-Beyond Kling AI credits, several essential licenses and tools are required:
-
-### Additional Production Costs (Estimation)
-
-2. **Flux.1 Pro AI Models:** AI models used for image generation tool (starting from $20/mo)
-3. **Custom LORA:** AI Loras used for image generation (N/A)
-4. **Adobe Creative Cloud:** For audio and video editing ($54.99/mo)
-5. **Suno AI Pro:** AI tool for film music composition ($10-30/mo)
-6. **ElevenLabs.io:** AI voice-over generation platform ($22/mo)
-
-### Production Time Map
+### 📅 Production Time Map
 
 | **Production Stages**   | **Quantity**     | **Duration** | **Total Hours** | **Total Days** |
 |--------------------------|------------------|--------------|-----------------|----------------|
@@ -61,47 +70,64 @@ Beyond Kling AI credits, several essential licenses and tools are required:
 | **Sound Design**         | 12 episodes      | 5 hrs        | 60              | 2.5            |
 | **Pre-Production**       | 12 episodes      | 10 hrs       | 120             | 5              |
 | **Post-Production**      | 12 episodes      | 5 hrs        | 60              | 2.5            |
----
 
-### Production Requirements Summary
+### 📈 Production Requirements Summary (estimation)
 - **Total Production Work Hours:** 934.67 hours
 - **Total Production Work Days:** 38.94 days
 
-### Call for Creators
-As stated in the original project promo:
-> "But ... I can’t do this alone ... To truly unlock The Portal’s full potential, I’m looking for passionate creators who share my love for storytelling, sound design, audio, and video production. Your creative contributions will be credited in every episode, and if we secure sponsorships, subscriptions, licenses, and copyright support, you’ll also be compensated for your work or, in return, I could help with your own projects."
-
-This call to action is more relevant now than ever. The journey to realizing "The Portal" needs dedicated individuals with skills in storytelling, sound design, and production. Contributions from anyone willing to collaborate will help us unlock the series' true potential.
-
-### Why Time Matters More Than Money
-Financial resources are undoubtedly valuable, but in this case, time and creative input hold even greater significance. Each contribution—whether through expertise, creative ideas, or production support—accelerates the path toward completing this groundbreaking project.
-
-**Ways You Can Contribute:**
-- Storyboarding and writing support
-- Sound design and music production
-- AI video and audio generation assistance
-- Editing and post-production
-- Technical and AI tool expertise
-
-In return, contributors will receive credits on every episode and, as financial opportunities arise, compensation or support for their own creative endeavors.
-
-Let’s unlock "The Portal" together, proving that collaboration and creativity can triumph over limitations.
-</details>
+**Total Production Workdays:** Approximately 39 days project (net), representing at least 5-6 months (gross).
 
 $~$
 
-## 🤝 Creative Process & Collaboration with AI
-<details open>
-<summary>All are welcome to join in creating "The Portal" and shaping this unique adventure into a stunning visual experience. Let’s shape Xara’s world together! Reach out and be part of something extraordinary.</summary>
+## ⏳ Why Time Matters More Than Money
+### 🤝 Creative Process & Collaboration with AI
 
-### Looking for Animators (KLING AI or other tool)
-The story is brought to life through a collaborative process combining Ady’s vision with the generative powers of AI. From conceptual art to story development, AI tools help craft a world that is vibrant, strange, and endlessly captivating. However, this is just the beginning, and the project welcomes contributions from creative individuals interested in bringing the story to life through animation. I invite anyone skilled in short animation (1–8 seconds) at 1080p resolution to join this project. I can provide high-resolution images (1080p to 4K) as a foundation for animators to use in generating dynamic scenes.
+Financial resources are undoubtedly valuable, but in this case, time and creative input hold even greater significance. Each contribution—whether through expertise, creative ideas, or production support—accelerates the path toward completing this groundbreaking project.
 
-### Consistency is Key
-Consistency is key, and AI plays a pivotal role in refining her identity across both design and motion. This is where you come in. If you're skilled in generating 5–8 second AI-driven animations, your expertise is invaluable. With countless hours and resources already invested, I’m seeking passionate collaborators to help make this vision a reality.
+### 🤝 Ways You Can Contribute
 
-### Credits 
-The author will be credited both in the episode in which the sequence he created was used, and in the final credits of the full version of the film.
+- **👼 Become Our Angel Sponsor:**  
+  The project has thus far been self-funded, with an investment of approximately €6,000. We are currently seeking visionary partners who resonate with our mission and are willing to support its growth. While we do not yet have a structured reward system in place, we deeply value those who help us move forward.
+
+- **🎞️ Create AI-Driven Micro Animations (5–15 Seconds) Using Kling AI 1.6 (`img2video`):**  
+  We provide the images and welcome skilled animators who can generate compelling AI-driven sequences in 1080p horizontal format. If you already have creative, high-quality image or video assets, we’re open to reviewing and integrating your work where it aligns with the project’s vision.
+
+- **🤖 Technical Expertise and AI Tool Development:**  
+  We seek specialists in adapting and developing custom **ComfyUI workflows** or nodes to ensure:
+  - Face and multi-character consistency and fast aging  
+  - Enhanced facial details  
+  - 3D visual mashups  
+  - 360-degree character animations  
+  - Advanced video quality improvements (up-scaling)  
+
+- **📢 Publishing and Distribution Opportunities:**  
+  We are actively exploring:  
+  - Online platforms, subscriptions, and streaming services  
+  - Film festivals, direct sales, and crowdfunding campaigns  
+  - Blu-ray sales and theatrical screenings  
+  - Industry collaborations with filmmakers and media professionals  
+
+### 📈 Cost Analysis and Estimations for a 6-Month Period
+
+Sustaining the project over six months requires an estimated (minimum) budget of **$1,200** to cover essential software tools and AI services. These investments are pivotal to maintaining creative and technical excellence throughout the project lifecycle.
+
+#### ⚖️ Breakdown of Estimated Costs:
+- **Kling AI Premium:** $80.96/month x 6 = **$485.76**  
+- **Flux.1 Pro Models:** $20/month x 6 = **$120**  
+- **Adobe Creative Cloud:** $54.99/month x 6 = **$329.94**  
+- **Suno AI Pro:** $20/month x 6 = **$120**  
+- **ElevenLabs.io:** $22/month x 6 = **$132**  
+
+**Total for 6 months: $1,187.70** (excluding labor costs, creative compensation and taxes)  
+
+#### Estimated Budget: $5000
+
+
+### 🙌 Contributor Benefits
+
+Participants will receive prominent credits on each episode and, as financial opportunities arise, compensation or creative support for their own endeavors.
+
+Together, let’s unlock **“The Portal”** and demonstrate that creativity and collaboration can transcend all limitations.
 
 </details>
 
@@ -116,26 +142,6 @@ $~$
 ![2024-11-14_080301_00001_the_portal-pilot-IG4_1080](https://github.com/user-attachments/assets/91a1bcfb-492a-45a4-a8ce-92c179d4ac32)
 
 _Tools: ComfyUI Portable (local server)_
-
-$~$
-
-## ⚡ Objectives
-<details open>
-<summary>These goals would provide a clear roadmap for the creation of "The Portal", ensuring growth and sustainability despite its no-budget nature.</summary>
-
-### Short-Term Objectives
-* Develop a complete script for the story, detailing the plot, characters, and key scenes. (100%)
-* Create short animations (1–8 seconds) in 1080p resolution to build visual momentum and illustrate the concept. (15%)
-* Plan the production of a feature-length animated film or an episodic series, with each episode advancing the storyline. (pending)
-* Build a presentation website to showcase the project, featuring artwork, animations, and the story outline to attract contributors and sponsors. (pending)
-
-### Long-Term Objectives
-* Secure sponsorship for licensing professional software or tools required for animation and production. (pending)
-* Find a sponsor to fund additional professional equipment (e.g., high-performance PCs, professional-grade GPUs, etc.).
-* Partner with a publishing or production company interested in licensing and distributing the final film or series.
-* Attract a sponsor for promotion and digital marketing, helping the project reach a global audience and build a dedicated fan base.
-
-</details>
 
 $~$
 
