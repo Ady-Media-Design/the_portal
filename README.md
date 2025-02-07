@@ -83,9 +83,8 @@ $~$
 
 The soundtrack for "The Portal" fuses creative artistry with AI technology, crafted using Suno AI for instrumental compositions while featuring lyrics personally written by the project's creator, Ady DeeJay. The music reflects the visionary themes of the film, evoking emotion and a sense of futuristic wonder. Visitors can immerse themselves in the results of this unique production process by listening to the full soundtrack on Bandcamp. This auditory journey enhances the sci-fi adventure and elevates the storytelling experience.
 
-[![Echoes of a Dream & Soul](https://via.placeholder.com/700x300.png?text=Echoes+of+a+Dream+%26+Soul+by+Ady+DeeJay)](https://adydeejay.bandcamp.com/album/echoes-of-a-dream-soul)  
-
-Click the image or [here](https://adydeejay.bandcamp.com/album/echoes-of-a-dream-soul) to listen.  
+[![Echoes of a Dream & Soul](https://github.com/user-attachments/assets/85e4c288-60fc-4567-b2c9-d237b9375ebd)](https://adydeejay.bandcamp.com/album/echoes-of-a-dream-soul)  
+<sub>Click the image or [here](https://adydeejay.bandcamp.com/album/echoes-of-a-dream-soul) to listen.</sub>
 
 $~$
 
