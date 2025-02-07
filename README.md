@@ -79,6 +79,14 @@ Given editing and transition requirements, we assume 4 usable seconds per clip:
 
 $~$
 
+### 🎼 Soundtrack: A Symphony of Innovation (in progress)
+
+The soundtrack for "The Portal" fuses creative artistry with AI technology, crafted using Suno AI for instrumental compositions while featuring lyrics personally written by the project's creator, Ady DeeJay. The music reflects the visionary themes of the film, evoking emotion and a sense of futuristic wonder. Visitors can immerse themselves in the results of this unique production process by listening to the full soundtrack on Bandcamp. This auditory journey enhances the sci-fi adventure and elevates the storytelling experience.
+
+<pre> ```html <div style="display: flex; justify-content: center; align-items: center;"> <iframe style="border: 0; width: 100%; max-width: 700px; height: 700px;" src="https://bandcamp.com/EmbeddedPlayer/album=3740584580/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless=""> <a href="https://adydeejay.bandcamp.com/album/echoes-of-a-dream-soul"> Echoes of a Dream &amp; Soul by Ady DeeJay </a> </iframe> </div> ``` </pre>
+
+$~$
+
 ## ⏳ Why Time Matters More Than Money
 ### 🤝 Creative Process & Collaboration with AI
 
