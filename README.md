@@ -2,7 +2,7 @@
 
 **About The Portal**
 
-<sub>A project crafted by [adydeejay](https://github.com/adydeejay), proudly supported by [Ady Media Design](https://github.com/Ady-Media-Design). We welcome contributions and sponsorships from others who believe in this project and its potential.</sub>
+<sub>A project crafted by [adydeejay](https://github.com/adydeejay), proudly supported by [Ady Media Design](https://github.com/Ady-Media-Design). We welcome contributions and sponsorships from others who believe in this project and its potential. Full article here: [AI Movie Production – The Portal](https://adydesign.ro/portfolio/ai-movie-production-the-portal)</sub>
 
 $~$
 
