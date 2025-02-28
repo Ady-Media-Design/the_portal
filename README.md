@@ -22,7 +22,7 @@ $~$
 
 ### 🎯 Short-Term Objectives
 * ✅ Develop a complete script for the story, detailing the plot, characters, and key scenes.
-* 📌 Create short animations (1–8 seconds) in 1080p resolution to build visual momentum and illustrate the concept.
+* 🔜 Create short animations (1–8 seconds) in 1080p resolution to build visual momentum and illustrate the concept. [Kling Ai]([url](https://www.klingai.com/user-home/5524040/material))
 * 📌 Plan the production of a feature-length animated film or an episodic series, with each episode advancing the storyline.
 * 📌 Build a presentation website to showcase the project, featuring artwork, animations, and the story outline to attract contributors and sponsors.
 
