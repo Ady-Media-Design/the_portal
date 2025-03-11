@@ -232,7 +232,7 @@ $~$
 
 By Chrono-Fault standards, Xara's timeline had fractured 321 times... no one knew how old she really was. Some said she was older than the first machine minds. Others believed she was the last daughter of Earth — the one who spoke with the Outsiders when no one else could. They say it was her voice that turned the Universe into an Alliance... and her hands that rebuilt the world from ash and memory. But those are only stories. What is known... is that when the portals closed and the skies grew quiet, she walked alone into the Dawn Span — where time bends and names are forgotten.
 
-<sub>Music $ AI Art & Animation: Adrian Dumitrașcu aka Ady DeeJay | Ady Media Design (Audio Track registered with AdRev, ISRC: CIXTH7721529) </sub>
+<sub>Music, AI Art & Animation: Adrian Dumitrașcu aka Ady DeeJay | Ady Media Design (Audio Track registered with AdRev, ISRC: CIXTH7721529) </sub>
 
 $~$
 
