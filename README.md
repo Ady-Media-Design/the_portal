@@ -40,7 +40,8 @@ $~$
 <details open>
 <summary>Creating "The Portal" series is an ambitious and exciting journey fueled by creativity and innovation. With a total runtime of 56 minutes (3,360 seconds) divided into 12 videos—including a pilot, 10 episodes, and an epilogue—this project showcases the transformative potential of AI-driven storytelling. However, this endeavor is not just about financial resources but rather about time and dedicated contributions from passionate creators.
 
-[![The Portal: A Journey Beyond Reality (promo)](https://i.ytimg.com/vi/lDE8QsLMlj4/maxresdefault.jpg)](https://www.youtube.com/watch?v=lDE8QsLMlj4)
+### PLAYLIST (YOUTUBE)
+[![The Portal: A Journey Beyond Reality (promo)](https://i.ytimg.com/vi/lDE8QsLMlj4/maxresdefault.jpg)](https://www.youtube.com/watch?v=d1Xt79YJs0M&list=PL7xNWTgdxXBsHUI2RgfYluqIooZpVZ2gC)
 
 </summary>
 
@@ -222,6 +223,16 @@ Thank you for believing in the future of storytelling. Together, let’s unlock 
 "We lost ... Damn it ..."
 
 Yeah! That’s right. We’re preparing something truly amazing! Stay tuned for creative insights, production updates, and the thrilling premiere of The Portal.
+
+$~$
+
+## 🎞️ THE AWAKENING (MOTION & MUSIC)
+
+[![The Portal: A Journey Beyond Reality (promo)](https://i.ytimg.com/vi/d1Xt79YJs0M/maxresdefault.jpg)](https://www.youtube.com/watch?v=d1Xt79YJs0M)
+
+By Chrono-Fault standards, Xara's timeline had fractured 321 times... no one knew how old she really was. Some said she was older than the first machine minds. Others believed she was the last daughter of Earth — the one who spoke with the Outsiders when no one else could. They say it was her voice that turned the Universe into an Alliance... and her hands that rebuilt the world from ash and memory. But those are only stories. What is known... is that when the portals closed and the skies grew quiet, she walked alone into the Dawn Span — where time bends and names are forgotten.
+
+Music $ AI Art & Animation: Adrian Dumitrașcu aka Ady DeeJay | Ady Media Design (Audio Track registered with AdRev, ISRC: CIXTH7721529)
 
 $~$
 
